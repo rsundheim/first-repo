@@ -5,3 +5,5 @@ This is my first repository.
 ***bolded and italicized text***
 
 ~~this text is striked~~
+
+Ryan Sundheim
